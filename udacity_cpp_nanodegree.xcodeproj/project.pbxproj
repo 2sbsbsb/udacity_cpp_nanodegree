@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		32110B18227C4540004B1DBC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 32110B17227C4540004B1DBC /* main.cpp */; };
+		323EE66C227C700E005BB097 /* Lesson3Part3Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 323EE66B227C700E005BB097 /* Lesson3Part3Solution.cpp */; };
 		326A4A73227C474E0025120F /* Lesson2Part20.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 326A4A70227C474E0025120F /* Lesson2Part20.cpp */; };
 		326A4A74227C474E0025120F /* Lesson3Part3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 326A4A71227C474E0025120F /* Lesson3Part3.cpp */; };
 		326A4A75227C474E0025120F /* Lesson2Part21.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 326A4A72227C474E0025120F /* Lesson2Part21.cpp */; };
@@ -28,6 +29,7 @@
 /* Begin PBXFileReference section */
 		32110B14227C4540004B1DBC /* udacity_cpp_nanodegree */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = udacity_cpp_nanodegree; sourceTree = BUILT_PRODUCTS_DIR; };
 		32110B17227C4540004B1DBC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		323EE66B227C700E005BB097 /* Lesson3Part3Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Lesson3Part3Solution.cpp; sourceTree = "<group>"; };
 		326A4A6C227C474E0025120F /* Lesson3Part3.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Lesson3Part3.hpp; sourceTree = "<group>"; };
 		326A4A6D227C474E0025120F /* Lesson2Part20.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Lesson2Part20.hpp; sourceTree = "<group>"; };
 		326A4A6E227C474E0025120F /* Lesson2Part21.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Lesson2Part21.hpp; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				326A4A72227C474E0025120F /* Lesson2Part21.cpp */,
 				326A4A6E227C474E0025120F /* Lesson2Part21.hpp */,
 				326A4A71227C474E0025120F /* Lesson3Part3.cpp */,
+				323EE66B227C700E005BB097 /* Lesson3Part3Solution.cpp */,
 				326A4A6C227C474E0025120F /* Lesson3Part3.hpp */,
 				32110B17227C4540004B1DBC /* main.cpp */,
 			);
@@ -138,6 +141,7 @@
 				32110B18227C4540004B1DBC /* main.cpp in Sources */,
 				326A4A74227C474E0025120F /* Lesson3Part3.cpp in Sources */,
 				326A4A75227C474E0025120F /* Lesson2Part21.cpp in Sources */,
+				323EE66C227C700E005BB097 /* Lesson3Part3Solution.cpp in Sources */,
 				326A4A73227C474E0025120F /* Lesson2Part20.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
